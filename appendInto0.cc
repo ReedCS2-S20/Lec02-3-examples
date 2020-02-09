@@ -4,7 +4,7 @@
 //
 // Author: Jim Fix for Reed CS2 S20
 //
-// The is a solution to Lab 02 Exercise 4. It requests
+// This is a solution to Lab 02 Exercise 4. It requests
 // two integer sequences (each assumed to be of length
 // between 1 and 10) then outputs the result of their
 // concatenation.
